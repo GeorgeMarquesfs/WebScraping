@@ -1,3 +1,5 @@
+// Créditos: Lisa Tagliaferri - Developer and author at DigitalOcean.
+
 
 import requests
 import csv
